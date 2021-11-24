@@ -1,0 +1,15 @@
+*{
+	font-family: 'Anton',gorgia ;
+	font-weight: 100;
+	font-size: 40px;
+}
+
+b{
+	width: 	400px;
+	height: 450px;
+	margin: 20px;
+	border: 10px solid red;
+	background: yellow;
+	display: inline-block;   /*inline-block: Se comporta comi un objeto en linea pero al que se le pueden modificar las dimensiones */
+
+}
